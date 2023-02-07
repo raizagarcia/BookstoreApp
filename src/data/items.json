@@ -1,0 +1,37 @@
+[
+    {
+      "id": 1,
+      "name": "The Picture of Dorian Gray",
+      "author": "Oscar Wild",
+      "price": 10.99,
+      "imgUrl": "/images/DorianGray.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Milk and Honey",
+      "author": "Rupi Kaur",
+      "price": 13.90,
+      "imgUrl": "/images/MilkHoney.jpg"
+    },
+    {
+      "id": 3,
+      "name": "The Chronicles of Narnia",
+      "author": "CS Lewis",
+      "price": 12.50,
+      "imgUrl": "/images/Narnia.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Psychology of Money",
+      "author": "Morgan Housel",
+      "price": 10.00,
+      "imgUrl": "/images/PsychologyMoney.jpg"
+    },
+    {
+      "id": 5,
+      "name": "The Two Towers",
+      "author": "JRR Tolkien",
+      "price": 14.00,
+      "imgUrl": "/images/TwoTowers.jpg"
+    }
+  ]

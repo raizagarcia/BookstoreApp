@@ -3,7 +3,7 @@ export function About(){
         <div>
             <h1>About</h1>
         <>
-        <p>This e-commerce project was developed as a test.</p>
+        <p>This e-commerce project was developed as a portfolio.</p>
         </>
         
         </div>

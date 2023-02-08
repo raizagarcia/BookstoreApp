@@ -34,7 +34,7 @@ export function Navbar(){
         align-itemn-center" style={{ 
             color: "white", 
             width:"1.5rem", 
-            heigth: "1.5rem", 
+            height: "1.5rem", 
             position: "absolute", 
             bottom: 0, 
             right: 0, 
